@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Read the learning material from bootcamp",
+      "day": "13 Sept at 10:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Bootcamp class",
+      "day": "13 Sept at 13:00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "All Hands",
+      "day": "13 Sept at 16:15",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Office Hour",
+      "day": "13 Sept at 19:00",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
